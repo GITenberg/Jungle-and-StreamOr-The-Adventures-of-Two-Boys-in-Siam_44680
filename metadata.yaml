@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44680#Jungle-and-StreamOr-The-Adventures-of-Two-Boys-in-Siam
 gutenberg_issued: '2014-01-16'
 gutenberg_type: Text
 identifiers:
